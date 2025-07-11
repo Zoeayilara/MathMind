@@ -13,6 +13,7 @@ To get a local copy up and running follow these simple steps.
 ## Live Demo
 - [Heroku Demo](https://mathmagicapp.herokuapp.com/)
 - [Netifly Demo](https://inspiring-medovik-37d3b3.netlify.app)
+- [Github Demo](https://zoeayilara.github.io/MathMind/)
 
 ### Prerequisites
 
@@ -22,11 +23,11 @@ To get a local copy up and running follow these simple steps.
 
 ### Setup
 
-- With git, clone the code to your machine, or download a ZIP of all the files directly.
-- [Download the ZIP file from this location](https://github.com/shaqdeff/Math-Magicians/archive/refs/heads/feature/setup.zip) or run the following [git](https://git-scm.com/) command to clone the files to your machine:
+- With git, clone the code to your machine.
+- Run the following [git](https://git-scm.com/) command to clone the files to your machine:
 
 ```
-git clone https://github.com/shaqdeff/Math-Magicians.git
+git clone https://github.com/Zoeayilara/MathMind.git
 ```
 
 - Once the files are on your machine, open the **Math-Magicians** folder in [Visual Studio Code](https://code.visualstudio.com/download).
@@ -36,13 +37,12 @@ git clone https://github.com/shaqdeff/Math-Magicians.git
 - After opening the files in Visual Studio Code, open the **VS Code** integrated terminal and run `npm install` to install the dependencies used.
 - Run `npm run start` to access the project on localhost:3000.
 
-## Authors
+## Author
 
-👤 **Shaquille Ndunda**
+👤 **Zoe Ayilara**
 
-- GitHub: [@shaqdeff](https://github.com/shaqdeff)
-- Twitter: [@shaquillendunda](https://twitter.com/shaquillendunda)
-- LinkedIn: [Shaquille Ndunda](https://www.linkedin.com/in/shaquille-ndunda-b13a95107/)
+- GitHub: [@Zoeayilara](https://github.com/Zoeayilara)
+- LinkedIn: [Zoe Ayilara](https://www.linkedin.com/in/zoe-ayilara-b029a0318)
 
 ## 🤝 Contributing
 
